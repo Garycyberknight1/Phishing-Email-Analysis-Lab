@@ -1,12 +1,12 @@
 # Phishing Email Analysis Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 The primary objective of this lab exercise was to conduct a comprehensive manual investigation of a real-world phishing email to determine its legitimacy and potential threat level.By shifting away from automated tools, the lab focused on deep-dive forensic techniques to uncover the technical infrastructure used by threat actors.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 
 - Header Parsing & Decoding
 - Email Authentication Auditing
@@ -16,7 +16,7 @@ The primary objective of this lab exercise was to conduct a comprehensive manual
 - Safe Handling of Malicious Artifacts 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - EML Analyzer / Header Parser: To convert raw .eml files into a structured format.
 - Virus Total: Used for multi-engine scanning of extracted URLs and file hashes.
@@ -25,11 +25,6 @@ The primary objective of this lab exercise was to conduct a comprehensive manual
 - URL Defanging Tools: Used to safely neutralize malicious links
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Phhishing Email Analysis*
 
